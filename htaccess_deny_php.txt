@@ -1,0 +1,48 @@
+<Files *.ph*>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.pH*>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.Ph*>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.PH*>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.sh*>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.Sh*>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.sH*>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.SH*>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.pl>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.Pl>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.pL>
+Order Deny,Allow
+Deny from All
+</Files>
+<Files *.PL>
+Order Deny,Allow
+Deny from All
+</Files>
